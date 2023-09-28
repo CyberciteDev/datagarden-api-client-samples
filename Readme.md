@@ -18,3 +18,10 @@ Un exemple simple permettant de récupérer la liste complète des Kws paramétr
 ```Shell
     php GetKws.php
 ```
+
+-- Récupérer la liste des positions pour un kw, sur un moteur pour un site --
+Un exemple simple permettant de récupérer la liste des positions pour un kw sur tous les moteurs paramétrés pour un site sur Datagarden
+
+```Shell
+    php GetPositions.php 
+```
