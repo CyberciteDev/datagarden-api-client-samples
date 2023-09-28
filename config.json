@@ -1,0 +1,8 @@
+{
+    "user" : "***",
+    "password" : "***",
+    "url" : "https://api.datagarden.fr/api/",
+    "site" : {
+        "id" : "***"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name":  "mynamespace/my-project-that-uses-composer",
+    "repositories": [
+      {
+        "type": "vcs",
+        "url": "https://github.com/CyberciteDev/datagarden-api-client-light.git"
+      }
+    ],
+    "require": {
+      "cybercite/datagarden-php-api-client-light": "dev-main"
+    }
+}
